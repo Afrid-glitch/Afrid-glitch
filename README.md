@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Afrid-glitch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 [ReadMe.md](https://github.com/user-attachments/files/27528659/ReadMe.md)
 
@@ -53,8 +56,6 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=Afrid-glitch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Afrid-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Afrid-glitch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
